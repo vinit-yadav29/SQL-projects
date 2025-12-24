@@ -22,15 +22,6 @@ Each project is organized in its own folder and includes:
 
 ---
 
-## 🛠 Tools & Technologies Used
-
-- **PostgreSQL**
-- **pgAdmin**
-- **SQL (Joins, Aggregations, Subqueries, Filtering)**
-- **CSV / Excel datasets**
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data cleaning & preparation using SQL  
