@@ -22,17 +22,6 @@ Each project is organized in its own folder and includes:
 
 ---
 
-## 🎯 Skills Demonstrated
-
-- Data cleaning & preparation using SQL  
-- Aggregation & grouping (`GROUP BY`, `COUNT`, `AVG`)  
-- Handling missing values (`NULL`, filtering logic)  
-- Business-oriented data analysis  
-- Interpreting results and explaining insights  
-- Writing clean, readable SQL code
-
----
-
 ## 📬 Contact
 
 **Vinit Yadav**  
